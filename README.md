@@ -93,12 +93,8 @@ Determinants-of-Child-Enrollment-ML/
 │   ├── 03_feature-engineering-&-machine_learning_models.ipynb
 │   └── 04_model_evaluation.ipynb
 │
-├── scripts/
-│   └── merge_province_datasets.py
-│
 ├── data/
 │   ├── sample_dataset.csv
-│   └── README.md
 |
 ├── poster/
 │   └── Research_Poster.pdf
